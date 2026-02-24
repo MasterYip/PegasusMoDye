@@ -1,0 +1,12 @@
+[submodule "deploy/third_party/cyclonedds"]
+	path = deploy/third_party/cyclonedds
+	url = https://github.com/eclipse-cyclonedds/cyclonedds
+[submodule "deploy/third_party/unitree_sdk2_python"]
+	path = deploy/third_party/unitree_sdk2_python
+	url = https://github.com/unitreerobotics/unitree_sdk2_python.git
+[submodule "deploy/third_party/mujoco"]
+	path = deploy/third_party/mujoco
+	url = https://github.com/google-deepmind/mujoco.git
+[submodule "deploy/third_party/unitree_sdk2"]
+	path = deploy/third_party/unitree_sdk2
+	url = https://github.com/unitreerobotics/unitree_sdk2.git
